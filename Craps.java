@@ -35,7 +35,7 @@ public class Craps {
 			point = sum;
 			do {
 				sum = roleDice(randomNumbers);
-				System.out.println("= " + sum);
+				System.out.println("The dices roll on " + sum);
 
 			} while (sum != 7 && sum != point);
 
