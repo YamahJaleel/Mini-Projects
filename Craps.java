@@ -1,16 +1,13 @@
-import java.util.Scanner;
-import java.util.Random;
 
-public class Craps {
 	public static void main(String[] args) {
 		int point, sum;
 
 		Random randomNumbers = new Random();
 
-		System.out.println("Throw number 1");
+		System.out.println("First throw ");
 
 		sum = roleDice(randomNumbers);
-		System.out.println("= " + sum);
+		System.out.println("The dices roll on " + sum);
 		System.out.println("Your point is " + sum);
 
 		switch (sum) {
