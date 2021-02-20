@@ -26,8 +26,8 @@
  
  Craps : 
  The basic game of craps is played with two dice. The first roll of these dice determines 
- your point and from the second roll onward your playing the odds. In java this is  
- easily replicable by using the random variable type. We can initialize
+ your point and from the second roll onward your playing the odds. In java this is easily 
+ replicable by using the random variable type. We can initialize
  two dice variables and then create a method roledice() which is called upon for each roll.
  By using a switch statement we can determine wether the player has won or lost.
  
