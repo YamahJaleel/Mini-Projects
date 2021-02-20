@@ -1,12 +1,12 @@
 # Smaller-Projects
 
 
- Each project in this repository contains only one class
+ Each project in this repository contains only one class.
  For each project there is a small description below 
  
  
  Roman numerals : 
- The function of this project is as simple as its name
+ The function of this project is as simple as its name.
  The user inputs a string of roman numbers for which the 
  program will then use the char.at() to recognize each of the 
  two characters making up any roman numeral as one of the
