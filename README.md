@@ -20,9 +20,9 @@
  it requires alot of repeat calculations and repeat code that can easily be 
  prevented with methods. For ex: The methods numgenerator() and 
  calcul() are called for each of the ten questions the user is asked
- in order to generate random numbers and calculate for ex: the sum of said numbers,
+ in order to generate random numbers and calculate (sum of said numbers),
  the methods encouragement() and warning() are called when the user inputs 
- the right or wrong answer to output a string for ex: "Great job !!!".
+ the right or wrong answer to output a string ("Great job !!!").
  
  Craps : 
  The basic game of craps is played with two dice. The first roll of these dice determines 
