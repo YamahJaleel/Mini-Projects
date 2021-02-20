@@ -20,16 +20,17 @@
  it requires alot of repeat calculations and repeat code that can easily be 
  prevented with methods. For ex: The methods numgenerator() and 
  calcul() are called for each of the ten questions the user is asked
- in order to generate random numbers and calculate (sum of said numbers),
+ in order to generate random numbers and calculate for ex : sum of said numbers,
  the methods encouragement() and warning() are called when the user inputs 
- the right or wrong answer to output a string ("Great job !!!").
+ the right or wrong answer to output a string for ex :"Great job !!!".
  
  Craps : 
  The basic game of craps is played with two dice. The first roll of these dice determines 
  your point and from the second roll onward your playing the odds. In java this is easily 
  replicable by using the random variable type. We can initialize
  two dice variables and then create a method roledice() which is called upon for each roll.
- By using a switch statement we can determine wether the player has won or lost.
+ Finally by using a switch statement we can determine wether the player has won or lost by
+ running the sum variable through it which contains the sum of the two dice.
  
  
  
