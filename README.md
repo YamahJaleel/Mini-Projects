@@ -23,6 +23,10 @@
  the methods encouragement() and warning() are called when the user inputs 
  the right or wrong answer.
  
+ Craps : 
+ 
+ 
+ 
  
  
  
