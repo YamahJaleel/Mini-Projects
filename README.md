@@ -5,7 +5,7 @@
  For each project there is a small description below 
  
  
- Roman numerals : 
+ Roman Numerals : 
  The function of this project is as simple as its name.
  The user inputs a string of roman numbers for which the 
  program will then use the char.at() method to recognize each of the 
