@@ -11,7 +11,7 @@
  program will then recognize each of the 
  two characters making up any roman numeral as one of the
  7 "IVXLCDM". It will then run these characters through a switch statement 
- that adds to the num variable whichever amount the characters correspond to
+ that adds to the num variable whichever amount the characters correspond to.
  
  Math Contest : 
  This project utilizes methods in order to optimize instead of
