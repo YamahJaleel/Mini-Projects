@@ -20,7 +20,7 @@
 		case 2:
 		case 3:
 		case 12:
-			System.out.println("Maybe next time :(");
+			System.out.println("Maybe next time ");
 			break;
 
 		case 4:
@@ -39,7 +39,7 @@
 			if (sum == point)
 				System.out.println("Congrats you won !!");
 			else
-				System.out.println("Maybe next time :(");
+				System.out.println("Maybe next time ");
 
 		}
 	}
