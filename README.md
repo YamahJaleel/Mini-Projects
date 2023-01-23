@@ -14,8 +14,7 @@
  that adds to the num variable whichever amount the characters correspond to.
  
  Math Contest : 
- This project utilizes methods in order to optimize instead of
- trying to brute force compute. Altough it is a simple math game 
+ Altough it is a simple math game 
  it requires alot of repeat calculations and repeat code that can easily be 
  prevented with methods. For ex: The methods numgenerator() and 
  calcul() are called for each of the ten questions the user is asked
