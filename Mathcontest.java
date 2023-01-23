@@ -14,7 +14,7 @@ public class Mathcontest {
 			System.out.println("- Substraction");
 			System.out.println("x Multiplication");
 			operation = input2.nextLine().charAt(0);
-			System.out.println("Please choose a difficulte");
+			System.out.println("Please choose a difficulty");
 			System.out.println("1- Single digit");
 			System.out.println("2- Double digits");
 			level = input.nextInt();
