@@ -16,7 +16,7 @@ public class Numerals {
 
 		char c1, c2;
 
-		System.out.println("Enter a roman number");
+		System.out.println("Enter a roman numeral");
 		numRoman = input.nextLine();
 
 		numRoman = numRoman.toUpperCase();
