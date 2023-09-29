@@ -1,4 +1,5 @@
 # Smaller-Projects
+
 1. Roman Numerals Converter:
 
 The "Roman Numerals" project is designed to convert Roman numerals into their corresponding decimal values. When a user inputs a string of Roman numerals, the program analyzes each character to recognize one of the seven Roman numeral symbols: 'I', 'V', 'X', 'L', 'C', 'D', and 'M'. It then employs a switch statement to accumulate the decimal value represented by these characters, updating a variable as it goes. This project showcases how to handle character-based input and process it to produce meaningful numeric output.
