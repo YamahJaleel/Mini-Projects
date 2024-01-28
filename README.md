@@ -1,4 +1,4 @@
-# Mini-Projects
+# MiniProjects
 
 ## 1. Roman Numerals Converter:
 
